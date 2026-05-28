@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { FileText, Menu, X } from "lucide-react";
 import { Link } from "react-router-dom";
-import ProfileDropdown from "./ProfileDropdown";
+import ProfileDropdown from "./ProfileDropdown.jsx";
 
 export default function Navbar() {
   const [isScrolled, setIsScrolled] = useState(false);
