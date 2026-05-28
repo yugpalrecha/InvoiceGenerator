@@ -1,5 +1,5 @@
 // Base URL
-export const BASE_URL = "http://localhost:8000";
+export const BASE_URL = "https://invoicegenerator-backend-j5g9.onrender.com";
 
 // All API paths
 export const API_PATHS = {
